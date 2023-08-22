@@ -13,7 +13,7 @@ Atualmente sou estudante no Instituto Federal de Pernambuco no curso técnico in
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/frananisio1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mfranciellyanisio@gmail.com)
 
-## 💻 Tecnologias que eu uso no meu dia:
+## 💻 Tecnologias que eu utilizo no meu dia a dia:
 
 <div style="display: inline_block"><br/>
     <img align-items="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
